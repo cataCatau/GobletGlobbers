@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736867713 source:c:\users\tarca\documents\gobletglobbers\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cstring>
+
